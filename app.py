@@ -22,7 +22,7 @@ st.markdown("""
 ➡️ **Step 1**: Select a model from the dropdown (CNN or ML)  
 ➡️ **Step 2**: Upload your `.mp3` or `.wav` audio file  
 ➡️ **Step 3**: We generate a Mel spectrogram from the audio  
-➡️ **Step 4**: We then use the spectrogram to classify using a **CNN model**  
+➡️ **Step 4**: We then use the spectrogram to classify using selected model  
 ➡️ **Step 5**: You get a 🎧 **Predicted Music Genre** with confidence
 """)
 
